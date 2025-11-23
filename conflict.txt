@@ -1,1 +1,1 @@
-Line for merge conflict demo
+Update the content for branch B
